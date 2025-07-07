@@ -262,6 +262,92 @@ sequenceDiagram
 
 ---
 
+## 🎯 **IDEAL USAGE PROTOCOL**
+
+<div align="center">
+
+### **Follow this protocol for maximum effectiveness:**
+
+</div>
+
+<table>
+<tr>
+<td width="25%">
+
+### **1. 🛑 PREPARATION**
+```bash
+# Close VS Code completely
+# Sign out of accounts
+# Clear any active sessions
+```
+
+</td>
+<td width="25%">
+
+### **2. 🚀 SPOOFING**
+```bash
+# Run MEGA tool
+./UltraSpoofAugment-linux-x86_64 --mega-start
+```
+
+</td>
+<td width="25%">
+
+### **3. ✨ USAGE**
+```bash
+# Launch VS Code fresh
+# Install/use Augment Code extension
+# Create new accounts
+```
+
+</td>
+<td width="25%">
+
+### **4. 🔄 CLEANUP**
+```bash
+# Optional: Stop spoofing
+./UltraSpoofAugment-linux-x86_64 --mega-stop
+```
+
+</td>
+</tr>
+</table>
+
+### **📋 DETAILED PROTOCOL:**
+
+#### **🛑 STEP 1: PREPARATION PHASE**
+- ❌ **Close VS Code completely** (not just minimize - fully exit)
+- ❌ **Close all VS Code windows** and background processes
+- 🚪 **Sign out of VS Code account sync** (if using GitHub/Microsoft account)
+- 🚪 **Sign out of Augment Code extension** (if currently signed in)
+- 🧹 **Clear any cached authentication tokens**
+
+#### **🚀 STEP 2: SPOOFING PHASE**
+- 🎯 **Run the MEGA tool**: `./UltraSpoofAugment-[platform] --mega-start`
+- ⏳ **Wait for completion**: All 10/10 operations should show SUCCESS
+- ✅ **Verify spoofing**: Check that all identifiers are spoofed
+- 📊 **Confirm status**: Use `--mega-status` to verify active spoofing
+
+#### **✨ STEP 3: USAGE PHASE**
+- 🟢 **Launch VS Code fresh** - It will read the newly spoofed identifiers
+- 🟢 **Install Augment Code extension** - Extension sees spoofed device info
+- 🟢 **Create new accounts** - System appears as completely different device
+- 🟢 **Use normally** - All spoofed identifiers (Hardware ID, MAC, etc.) are active
+
+#### **🔄 STEP 4: CLEANUP PHASE (Optional)**
+- 🛑 **Stop spoofing**: `./UltraSpoofAugment-[platform] --mega-stop`
+- 🔄 **Restore original settings** - System returns to original state
+- 📁 **Backup spoofed data** - All spoofing data saved in workspace
+
+### **⚠️ IMPORTANT NOTES:**
+- **Augment Code is a VS Code extension** - spoofing affects the entire VS Code environment
+- **Close VS Code BEFORE spoofing** - ensures clean database modification
+- **Fresh launches work best** - apps read newly spoofed identifiers
+- **Network spoofing included** - MAC addresses and hostnames are spoofed
+- **All identifiers unified** - OS, VS Code, and extension see consistent spoofed identity
+
+---
+
 ## 🏆 **DOWNLOAD NOW**
 
 <div align="center">
