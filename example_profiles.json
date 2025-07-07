@@ -1,0 +1,146 @@
+{
+  "gaming_windows_profile": {
+    "os_name": "Windows 11 Pro",
+    "os_version": "11.0.22621",
+    "architecture": "x86_64",
+    "processor": "Intel(R) Core(TM) i9-12900K CPU @ 3.20GHz",
+    "manufacturer": "MSI",
+    "model": "Gaming Desktop Z690",
+    "serial_number": "MSI1234567890",
+    "uuid": "12345678-1234-5678-9012-123456789012",
+    "mac_addresses": [
+      "00:1B:44:11:3A:B7",
+      "00:50:56:C0:00:08"
+    ],
+    "hostname": "GAMING-PC-MSI",
+    "username": "gamer123",
+    "timezone": "America/New_York",
+    "language": "en-US",
+    "hardware_ids": {
+      "motherboard_id": "MSI-Z690-001",
+      "cpu_id": "BFEBFBFF000906E9",
+      "disk_id": "WD-WCC4N7DS2E9A",
+      "gpu_id": "10DE2204"
+    },
+    "custom_attributes": {
+      "gpu_model": "NVIDIA GeForce RTX 3080",
+      "ram_size": "32GB",
+      "storage_type": "NVMe SSD"
+    }
+  },
+  "business_laptop_profile": {
+    "os_name": "Windows 10 Pro",
+    "os_version": "10.0.19044",
+    "architecture": "x86_64",
+    "processor": "Intel(R) Core(TM) i7-11700U CPU @ 1.30GHz",
+    "manufacturer": "Dell Inc.",
+    "model": "Latitude 5520",
+    "serial_number": "DELL9876543210",
+    "uuid": "87654321-4321-8765-2109-876543210987",
+    "mac_addresses": [
+      "00:15:5D:FF:FF:FF",
+      "08:00:27:12:34:56"
+    ],
+    "hostname": "CORP-LAPTOP-001",
+    "username": "john.doe",
+    "timezone": "America/Chicago",
+    "language": "en-US",
+    "hardware_ids": {
+      "motherboard_id": "DELL-LAT-5520",
+      "cpu_id": "BFEBFBFF000806C1",
+      "disk_id": "SAMSUNG-SSD-001",
+      "gpu_id": "8086A7A0"
+    },
+    "custom_attributes": {
+      "domain": "corporate.local",
+      "department": "IT",
+      "asset_tag": "IT-LAP-001"
+    }
+  },
+  "developer_macbook_profile": {
+    "os_name": "macOS Ventura",
+    "os_version": "13.2.1",
+    "architecture": "aarch64",
+    "processor": "Apple M2",
+    "manufacturer": "Apple Inc.",
+    "model": "MacBook Pro",
+    "serial_number": "FVFXM1234567",
+    "uuid": "ABCDEF12-3456-7890-ABCD-EF1234567890",
+    "mac_addresses": [
+      "00:03:93:12:34:56",
+      "00:50:C2:78:90:AB"
+    ],
+    "hostname": "MacBook-Pro-M2",
+    "username": "developer",
+    "timezone": "America/Los_Angeles",
+    "language": "en-US",
+    "hardware_ids": {
+      "motherboard_id": "APPLE-M2-001",
+      "cpu_id": "ARM-M2-CHIP",
+      "disk_id": "APPLE-SSD-001",
+      "gpu_id": "APPLE-M2-GPU"
+    },
+    "custom_attributes": {
+      "xcode_version": "14.2",
+      "development_team": "Apple Development",
+      "provisioning_profile": "Developer"
+    }
+  },
+  "linux_server_profile": {
+    "os_name": "Ubuntu 22.04 LTS",
+    "os_version": "5.15.0-58-generic",
+    "architecture": "x86_64",
+    "processor": "AMD EPYC 7742 64-Core Processor",
+    "manufacturer": "HP",
+    "model": "ProLiant DL380 Gen10",
+    "serial_number": "HP1122334455",
+    "uuid": "11223344-5566-7788-9900-AABBCCDDEEFF",
+    "mac_addresses": [
+      "00:1B:21:12:34:56",
+      "00:1B:21:78:90:AB"
+    ],
+    "hostname": "web-server-01",
+    "username": "sysadmin",
+    "timezone": "UTC",
+    "language": "en-US",
+    "hardware_ids": {
+      "motherboard_id": "HP-DL380-G10",
+      "cpu_id": "AMD-EPYC-7742",
+      "disk_id": "HP-SSD-960GB",
+      "gpu_id": "ASPEED-AST2500"
+    },
+    "custom_attributes": {
+      "server_role": "web_server",
+      "datacenter": "DC-East-01",
+      "rack_position": "U42"
+    }
+  },
+  "stealth_vm_profile": {
+    "os_name": "Windows 10 Home",
+    "os_version": "10.0.19041",
+    "architecture": "x86_64",
+    "processor": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+    "manufacturer": "ASUS",
+    "model": "PRIME B360M-A",
+    "serial_number": "ASUS5544332211",
+    "uuid": "55443322-1100-9988-7766-554433221100",
+    "mac_addresses": [
+      "00:1E:C9:12:34:56"
+    ],
+    "hostname": "HOME-PC-ASUS",
+    "username": "user",
+    "timezone": "Europe/London",
+    "language": "en-GB",
+    "hardware_ids": {
+      "motherboard_id": "ASUS-B360M-A",
+      "cpu_id": "BFEBFBFF000906EA",
+      "disk_id": "WDC-WD10EZEX",
+      "gpu_id": "10DE1C82"
+    },
+    "custom_attributes": {
+      "anti_vm": true,
+      "stealth_mode": true,
+      "evasion_level": "high"
+    }
+  }
+}
